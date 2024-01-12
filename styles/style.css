@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.header{
+    background-color: rgba(255, 144, 14, 0.10);
+}
